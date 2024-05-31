@@ -1,0 +1,1 @@
+ C:\\Users\\AfifZahrawi\\Downloads\\cervi_care\\.dart_tool\\flutter_build\\a6e8e6c012232a3c487d6e5a37f4836d\\native_assets.yaml: 

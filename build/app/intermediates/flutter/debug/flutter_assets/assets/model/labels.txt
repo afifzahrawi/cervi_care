@@ -1,0 +1,7 @@
+0 Normal Superficial
+1 Normal Intermediate
+2 Normal Columnar
+3 Dysplastic Light
+4 Dysplastic Moderate
+5 Dysplastic Severe
+6 Carcinoma

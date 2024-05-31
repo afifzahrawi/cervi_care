@@ -1,0 +1,12 @@
+sq.flutter.tflite.flutter_tflite-core-1.6.0-0 C:\Users\AfifZahrawi\.gradle\caches\transforms-3\31b50fa987a3d8fae27f392ef134196e\transformed\core-1.6.0\res
+sq.flutter.tflite.flutter_tflite-jetified-window-java-1.0.0-beta04-1 C:\Users\AfifZahrawi\.gradle\caches\transforms-3\509bfdacded6cfe0db9764a63cb85356\transformed\jetified-window-java-1.0.0-beta04\res
+sq.flutter.tflite.flutter_tflite-jetified-window-1.0.0-beta04-2 C:\Users\AfifZahrawi\.gradle\caches\transforms-3\61f6b99bb9934935b5f167de6800a38b\transformed\jetified-window-1.0.0-beta04\res
+sq.flutter.tflite.flutter_tflite-jetified-annotation-experimental-1.1.0-3 C:\Users\AfifZahrawi\.gradle\caches\transforms-3\a90847a9b25aecb60d4c0430aff06cea\transformed\jetified-annotation-experimental-1.1.0\res
+sq.flutter.tflite.flutter_tflite-main-4 C:\Users\AfifZahrawi\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_tflite-1.0.1\android\src\main\res
+sq.flutter.tflite.flutter_tflite-release-5 C:\Users\AfifZahrawi\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_tflite-1.0.1\android\src\release\res
+sq.flutter.tflite.flutter_tflite-pngs-6 C:\Users\AfifZahrawi\Downloads\cervi_care\build\flutter_tflite\generated\res\pngs\release
+sq.flutter.tflite.flutter_tflite-resValues-7 C:\Users\AfifZahrawi\Downloads\cervi_care\build\flutter_tflite\generated\res\resValues\release
+sq.flutter.tflite.flutter_tflite-rs-8 C:\Users\AfifZahrawi\Downloads\cervi_care\build\flutter_tflite\generated\res\rs\release
+sq.flutter.tflite.flutter_tflite-mergeReleaseResources-9 C:\Users\AfifZahrawi\Downloads\cervi_care\build\flutter_tflite\intermediates\incremental\release\mergeReleaseResources\merged.dir
+sq.flutter.tflite.flutter_tflite-mergeReleaseResources-10 C:\Users\AfifZahrawi\Downloads\cervi_care\build\flutter_tflite\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+sq.flutter.tflite.flutter_tflite-merged_res-11 C:\Users\AfifZahrawi\Downloads\cervi_care\build\flutter_tflite\intermediates\merged_res\release

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174457591202",
+    "project_id": "cervicare",
+    "storage_bucket": "cervicare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174457591202:android:4c78bb8569cbdbe980cefb",
+        "android_client_info": {
+          "package_name": "cervicare.my"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdNM1_5uTF5EPp5ZaZIxnNguKy6CjzKEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
